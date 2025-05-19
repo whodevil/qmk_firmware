@@ -16,8 +16,9 @@
 
 #pragma once
 
-#define MOUSEKEY_MOVE_DELTA 25
+//#define MOUSEKEY_MOVE_DELTA 25
 
+#define MIDI_ADVANCED
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
